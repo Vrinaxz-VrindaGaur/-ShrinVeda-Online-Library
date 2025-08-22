@@ -1,2 +1,1 @@
-# -ShrinVeda-Online-Library
-A user-friendly platform for B.Tech students to access study materials and notices
+Developed a user-friendly platform for B.Tech students to access study materials and notices, utilizing HTML, CSS, JavaScript, Bootstrap, and REST APIs for seamless content delivery. Aiming for integration of AI for conducting Mock test , interviews and personalised mentorship. 
